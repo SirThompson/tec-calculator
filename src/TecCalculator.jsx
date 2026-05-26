@@ -868,7 +868,7 @@ function StepEntry({ state, dispatch, onNext }) {
         >
 
           <div className="relative z-10 max-w-4xl">
-            <h1 className="text-white text-[56px] md:text-[88px] font-bold leading-[1.0] tracking-tight">
+            <h1 className="text-white text-[24px] md:text-[24px] font-bold leading-[1.0] tracking-tight">
               Insourcing vs. Outsourcing Calculator
             </h1>
           </div>
